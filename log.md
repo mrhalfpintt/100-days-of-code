@@ -15,22 +15,11 @@ Today i am going to redo from scratch the buildup of a bbc news website. I am on
 
 **Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 11, 2020
+#### Refresh and refocus
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Decided after reading a coding book that although i know the bulk of the main html and css functions i cannot recall them if i need to. Only after spending about 20 minuites trying to find out how to do soemething i realise o already knew that. So i have now made a folder with examples of all main tags and functions for HTML and CSS.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I needed to declutter, i have many different sources of information that im using and many different applications. I have now shortcutted everything so that i can access all easily and effectively.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
