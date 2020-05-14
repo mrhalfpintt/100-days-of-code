@@ -22,4 +22,27 @@ Today i am going to redo from scratch the buildup of a bbc news website. I am on
 
 **Thoughts**: I needed to declutter, i have many different sources of information that im using and many different applications. I have now shortcutted everything so that i can access all easily and effectively.
 
+### Day 3: May 12, 2020
+#### Refresh and refocus
+
+**Today's Progress**: Had to work today for the first time since lockdown. Installed some sneeze screens so was worthwhile work. When i got back only really looked through one tof the text books. Not much porogress
+
+**Thoughts**: Productive day in 1 sense and defo no in another
+
+### Day 4: May 13, 2020
+#### Refresh and refocus
+
+**Today's Progress**: Did quite a lot on my example page. Made a lot of comments and will finish the html by tomorrow. Will be good to start the css
+
+**Thoughts**: By doing each elemtn seperately and in all aaspects of it (for example the form tags i am seperateley adding all different types) i have a much better understanding of how they work now. 
+
+### Day 5: May 14, 2020
+#### Refresh and refocus
+
+**Today's Progress**: Will have the HTML Complete by today and hopefully get into the CSS
+
+**Thoughts**: By going back and updating this log every day is actually helping keep on track. Even if no one else ever looks at it. I nknow that this is here.
+
+
+
 
